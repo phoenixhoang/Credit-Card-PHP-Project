@@ -1,0 +1,46 @@
+li 
+{
+	list-style-type: none;
+	font-size: 11pt;
+}
+
+.mail 
+{
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 32px;
+	width: 400px;
+	background : #F0F0F0;
+	border: 1px soild silver;
+}
+
+.mail h2, h3 
+{
+	margin-left: 38px;
+}
+
+img
+{
+	margin-left: 38px;
+}
+
+input 
+{
+	font-size: 11pt;
+}
+
+input:focus, textarea:focus
+{
+	background-color: lightyellow;
+}
+
+input submit 
+{
+	font-size: 11pt;
+}
+.rq 
+{
+	color: #FF0000;
+	font-size: 11pt;
+} 
